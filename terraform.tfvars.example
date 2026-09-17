@@ -1,0 +1,5 @@
+cloud_id            = "replace-with-cloud-id"
+folder_id           = "replace-with-folder-id"
+zone                = "ru-central1-a"
+ssh_public_key_path = "./.local/otus_dz01.pub"
+ssh_allowed_cidr    = "203.0.113.10/32" # Замените на свой фактический публичный IPv4.
