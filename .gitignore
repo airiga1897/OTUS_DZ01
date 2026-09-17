@@ -1,0 +1,15 @@
+.tools/
+AGENTS.md
+docs/codex/
+.local/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars
+*.tfvars.json
+!terraform.tfvars.example
+crash*.log
+.env
+*key.json
+*.pem
